@@ -28,14 +28,7 @@ pip install flask
 ```
 **Installing required dependencies**
 ```bash
-pip install flask-sqlalchemy
-pip install flask-bcrypt
-pip install Flask-wtf
-pip install flask-login
-pip install email_validator
-pip install Pillow
-pip install flask-mail
-pip install flask-serialize
+pip install -r requirements.txt
 ```
 
 ## Create the Database
