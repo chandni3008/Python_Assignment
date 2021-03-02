@@ -55,3 +55,30 @@ pip install flask-serialize
 
 ## Your Project will look like this
 ![image](TargetUrl)
+**Home page**
+  ![home](https://github.com/chandni3008/Python_Assignment/blob/main/PythonAssignment/Screenshots/home.png)
+ ****
+
+**Registration page**
+  ![register](https://github.com/chandni3008/Python_Assignment/blob/main/PythonAssignment/Screenshots/Register.png)
+ ****
+
+
+**Login Page**
+  ![login](https://github.com/chandni3008/Python_Assignment/blob/main/PythonAssignment/Screenshots/Login.png)
+ ****
+ 
+ **New Post**
+  ![newpost](https://github.com/chandni3008/Python_Assignment/blob/main/PythonAssignment/Screenshots/new%20post.png)
+ ****
+ 
+**User Account Page**
+  ![](https://github.com/chandni3008/Python_Assignment/blob/main/PythonAssignment/Screenshots/account.png)
+ ****
+
+**Filter menu**
+  ![](https://github.com/chandni3008/Python_Assignment/blob/main/PythonAssignment/Screenshots/filter.png)
+ ****
+ 
+ 
+ 
