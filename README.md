@@ -1,8 +1,10 @@
 # Flask Blog
 This a simple blog website created using Flask. Flask is a web application framework written in Python language.
 ****
+
 ## Pre-Requites:
 **You should have python installed in your system.**
+
 ## Local installation guide:
 **Clone the repository**
 ```bash
@@ -43,9 +45,6 @@ pip install flask-serialize
  from flaskblog.models import User, Post
  db.create_all()
  ```
-
- 
- 
  
  ## Run the code at your local environment
 ```bash
@@ -54,7 +53,7 @@ pip install flask-serialize
 >Open your browser and the site can be found running at http://127.0.0.1:5000/ 
 
 ## Your Project will look like this
-![image](TargetUrl)
+
 **Home page**
   ![home](https://github.com/chandni3008/Python_Assignment/blob/main/PythonAssignment/Screenshots/home.png)
  ****
@@ -73,11 +72,11 @@ pip install flask-serialize
  ****
  
 **User Account Page**
-  ![](https://github.com/chandni3008/Python_Assignment/blob/main/PythonAssignment/Screenshots/account.png)
+  ![account](https://github.com/chandni3008/Python_Assignment/blob/main/PythonAssignment/Screenshots/account.png)
  ****
 
 **Filter menu**
-  ![](https://github.com/chandni3008/Python_Assignment/blob/main/PythonAssignment/Screenshots/filter.png)
+  ![filter](https://github.com/chandni3008/Python_Assignment/blob/main/PythonAssignment/Screenshots/filter.png)
  ****
  
  
